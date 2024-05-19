@@ -31,4 +31,38 @@ The Expense Management Application is designed to help users manage their financ
 
 ## Installation
 
-1. Clone the repository from GitHub: 
+1. Clone the repository from GitHub: https://github.com/Rutvik-Gandhi/Expense_Management_Application.git
+
+2. Open the project in IntelliJ IDEA or your preferred IDE.
+
+3. Build and run the application.
+
+## Usage
+
+1. Launch the Expense Management Application.
+
+2. Create a new account or log in if you already have an account.
+
+3. Start adding transactions by entering transaction details such as date, amount, category, etc.
+
+4. Use the expense splitting feature to divide expenses among group members if applicable.
+
+5. Attach photos of bills or receipts to transactions for documentation purposes.
+
+6. Explore additional advanced features to enhance your financial management experience.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create your feature branch: `git checkout -b feature-name`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Submit a pull request.
+
+## License
+
+[MIT License](LICENSE)
+
+
